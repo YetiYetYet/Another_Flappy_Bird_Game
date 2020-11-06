@@ -1,4 +1,5 @@
-﻿using TMPro;
+﻿using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -9,14 +10,13 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI scoreText;
 
     public GameObject gameOverMenu;
-
-
-    // Start is called before the first frame update
+    
     void Start()
     {
         Time.timeScale = 1;
         actualScore = 0;
         gameOverMenu.SetActive(false);
+        Screen.SetResolution(450, 800, false);
     }
 
     public void AddScore()
