@@ -25,18 +25,18 @@ Graphics are from craftpix.net
 ## Tutorials
 I created this game by watching several tutorials.
 
-<ins>For the parallax infinite background : </ins>
+For the parallax infinite background :
 
 https://youtu.be/wBol2xzxCOU by [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg)
 
-<ins>Make your own flappy Bird in 10 minutes : </ins>
+Make your own flappy Bird in 10 minutes : 
  
 https://youtu.be/uRWmEjxY334 by [Valem](https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw)
 
-<ins>Audio in unity : </ins>
+Audio in unity : 
 
 https://youtu.be/6OT43pvUyfY by [Brakeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
-<ins>Audio Mixer Groups :</ins>
+Audio Mixer Groups :
 
 https://youtu.be/vOaQp2x-io0 by [Unity](https://youtu.be/vOaQp2x-io0)
