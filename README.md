@@ -5,7 +5,7 @@ A simple training to consolidate my knowledge with concrete projects. The goal w
 
 [Demo available here](https://simmer.io/@YetiYetYet/another-flappy-bird-game)
 
-## Screenshoot
+## Screenhoots
 ![ScreenShoot](https://i.imgur.com/b3zWnD4.png)
 
 Feel free to use and modify this project but don't use the graphics and sound without paying it. 
@@ -16,7 +16,7 @@ Do not hesitate to contact me if you have any question.
 - Interface and Item sound [[Link]](https://assetstore.unity.com/packages/audio/sound-fx/interface-and-item-sounds-89646)
 - Ultimate Game Music Collection  [[Link]](https://assetstore.unity.com/packages/audio/music/orchestral/ultimate-game-music-collection-37351)
 
-## Graphics
+### Graphics
 Graphics are from craftpix.net 
 -  Landscape Game Background [[Link]](https://craftpix.net/product/landscape-game-backgrounds/)
 - FLYING MONSTER 2D CHARACTER SPRITES [[Link]](https://craftpix.net/product/flying-monster-2d-character-sprites/)
